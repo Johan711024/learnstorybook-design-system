@@ -8,6 +8,9 @@
   Chromatic's Design Systems for Developers tutorial template
 </h1>
 
+
+
+
 This template ships with the main React configuration files you'll need to get up and running fast.
 
 ## 🚅 Quick start
@@ -88,3 +91,11 @@ If you encounter an issue with the template, we encourage you to open an issue i
 1. Read our introductory tutorial over at [Storybook tutorials](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/).
 2. Learn how to transform your component libraries into design systems in our [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/) tutorial.
 3. See our official documentation at [Storybook](https://storybook.js.org/).
+
+
+
+# Storybook design system tutorial
+
+The Storybook design system tutorial is a subset of the full [Storybook design system](https://github.com/storybookjs/design-system/), created as a learning resource for those interested in learning how to write and publish a design system using best in practice techniques.
+
+Learn more in [Storybook tutorials](https://storybook.js.org/tutorials/).
